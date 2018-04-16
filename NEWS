@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 strongswan-5.6.2
 ----------------
 
@@ -347,6 +348,8 @@ strongswan-5.4.0
   used as owners of shared secrets.
 
 
+=======
+>>>>>>> origin/ddwrt
 strongswan-5.3.5
 ----------------
 

@@ -39,7 +39,12 @@
  * THE SOFTWARE.
  */
 
+<<<<<<< HEAD:src/libcharon/plugins/kernel_netlink/kernel_netlink_ipsec.c
 #define _GNU_SOURCE
+=======
+#include <musl.h>
+
+>>>>>>> origin/ddwrt:src/libhydra/plugins/kernel_netlink/kernel_netlink_ipsec.c
 #include <sys/types.h>
 #include <sys/socket.h>
 #include <sys/ioctl.h>

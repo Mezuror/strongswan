@@ -15,6 +15,7 @@
  * for more details.
  */
 
+<<<<<<< HEAD:src/libcharon/plugins/kernel_netlink/kernel_netlink_shared.c
 /*
  * Copyright (C) 2016 secunet Security Networks AG
  * Copyright (C) 2016 Thomas Egerer
@@ -37,6 +38,9 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
+=======
+#include "musl.h"
+>>>>>>> origin/ddwrt:src/libhydra/plugins/kernel_netlink/kernel_netlink_shared.c
 
 #include <sys/socket.h>
 #include <linux/netlink.h>
